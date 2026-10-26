@@ -13,9 +13,9 @@ CNEX OS is a desktop operating system built on Linux. We are making it calm, pol
 - **An open base.** The core of the system will be open source, so anyone can see how it works and how it handles your data.
 - **Calm, polished design.** One consistent look across the system, careful motion and nothing in your way.
 
-### Coming 16 November 2026
+### Coming soon
 
-CNEX OS launches on 16 November 2026, with its website at cnexos.com. The open-source parts of CNEX OS will appear here at launch.
+CNEX OS is coming soon, with its website at cnexos.com. The open-source parts of CNEX OS will appear here at launch.
 
 ### Get in touch
 
