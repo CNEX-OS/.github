@@ -10,7 +10,7 @@ CNEX OS is a desktop operating system built on Linux. We are making it calm, pol
 
 - **Privacy first.** What you do on your computer is yours. What leaves it is kept to a minimum, and we say plainly what it is.
 - **Secure by default.** The safe choice is the starting point, not a setting you have to go looking for.
-- **An open base.** The core of the system is open source, so anyone can see how it works and how it handles your data.
+- **An open base.** The core of the system will be open source, so anyone can see how it works and how it handles your data.
 - **Calm, polished design.** One consistent look across the system, careful motion and nothing in your way.
 
 ### Coming 16 November 2026
